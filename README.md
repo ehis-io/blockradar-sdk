@@ -30,7 +30,7 @@ npm install node-fetch
 Initialize the `Blockradar` client with your API key from the [Blockradar Dashboard](https://dashboard.blockradar.co).
 
 ```typescript
-import { Blockradar } from 'blockrader';
+import { Blockradar } from 'blockradar';
 
 const sdk = new Blockradar('your-api-key');
 ```
