@@ -1,6 +1,6 @@
 {
   "name": "blockradar",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "",
   "type": "module",
   "main": "dist/index.js",
@@ -17,6 +17,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehis-io/blockradar-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ehis-io/blockradar-sdk/issues"
+  },
+  "homepage": "https://github.com/ehis-io/blockradar-sdk#readme",
   "dependencies": {
     "node-fetch": "^3.3.2"
   },

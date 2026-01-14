@@ -122,5 +122,8 @@ npm run build
 npm test
 ```
 
+### Contributing
+For details on how to contribute to this project, please see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Documentation
 For detailed API references, visit the [official Blockradar documentation](https://docs.blockradar.co).
